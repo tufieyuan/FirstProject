@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
-
-printf("hello,limingli");
+printf("2");
+printf("hello,other");
+printf("2");
 return 0;
 }
